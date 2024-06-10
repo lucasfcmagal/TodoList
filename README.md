@@ -1,8 +1,15 @@
-# React + Vite
+# TodoList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi criado utlizando React, Html, css, com Vite.js , para contruir uma lista de tarefas
 
-Currently, two official plugins are available:
+### Esta lista possuí
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Filtro de busca por nome
+
+- ordenação alfabética por ascendente e descendente 
+
+- opção de completar tarefa e excluir tarefa
+
+## Em breve ...
+
+- banco de dados para salvar as tarefas, e dias e adicionar lembretes para tarefas.
